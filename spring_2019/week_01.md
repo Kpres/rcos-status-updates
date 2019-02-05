@@ -1,24 +1,14 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week I figured out how to make a chrome extension and have my browser recognize it and run it. So with that I setup a very basic front end for the extension and connected it to a test js file.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+> Figure out how to comb/get the html source code for the current web page that I am on so that we can look for clickbaity titles and pictures etc.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Nothing so far
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
